@@ -1,3 +1,3 @@
-# This is a simple project to demonstrate the use of react states to keep track of a variable
-## Uses:
-* React states simplifies the code and there's no need to render a changed value again
+# Counter app
+This is a simple project built using React.js . This app demonstrated the use of react state to keep track of a variable
+The advantage of using react state is that there's no need to render the changes again and the code becomes simpler.
